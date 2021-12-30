@@ -21,3 +21,4 @@ Hello, my dear friend, меня зовут Николай и я - начинаю
 Держите примеры:<br>
 [сайт-портфолио чувака](https://landing-portfolioman.github.io/)<br>
 [заказ на верстку с Tilda](https://landing-englishtest-results.github.io/)<br>
+[небольшой пример работы с javascript и svg-графикой](https://landing-melody.github.io)<br>
