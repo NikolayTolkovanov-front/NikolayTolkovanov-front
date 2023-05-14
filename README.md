@@ -1,4 +1,4 @@
-# 🧨Осторожно, вы на территории опасного frontendera🧨 
+# 🧨persistence brings results🧨 
 
 ## About me🤷‍♂️
 Hello, my dear friend, меня зовут Николай и я - frontend-разработчик из г. Волгограда.<br>
